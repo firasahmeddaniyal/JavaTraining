@@ -8,6 +8,5 @@ public class dowhileloop {
             System.out.println("World");
             i++;
         } while (i<=a);
-        
     }
 }
